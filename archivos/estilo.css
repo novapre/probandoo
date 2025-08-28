@@ -1,0 +1,145 @@
+.body {
+    width: 100%!important;
+    background: linear-gradient(rgb(105, 190, 40), rgb(0, 105, 60)) !important;
+    background-repeat: no-repeat!important;
+    min-width: auto!important;
+    height: 800px;
+    
+     
+     
+}
+.caja2 {width: 100%!important;
+    background-repeat: no-repeat!important;
+    height: 800px;
+    background: linear-gradient(rgb(105, 190, 40), rgb(0, 105, 60)) !important;
+}
+
+
+.form
+{
+    width: 350px;
+    background-color:  white;
+    border-radius: 3px;
+    height: 626px;
+}
+
+
+.form2
+{
+    width: 350px;
+    background-color:  white;
+    border-radius: 3px;
+    height: 450px;
+}
+
+
+
+
+.log {
+    width: 100%;
+   margin-top: 8px;
+}
+
+
+.ip1 {
+  
+   outline: none;
+    height: 39px;
+    width: 300px;
+    border-color: #f3f3f3;
+    color: #666;
+    border: 1px solid #ced4da;
+    padding-left: 10px;
+    margin-top: 5px;
+   
+}
+
+
+
+.ip2 {
+    height: 39px;
+    width: 300px;
+    border-color:#e9e6e6;
+    box-shadow: none;
+    border: 1px solid #ced4da;   
+    padding-left: 10px;
+
+
+}
+
+ 
+.p1 {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #666666 ;
+    font-weight:lighter;
+    margin-left: -214px;
+     
+}
+
+.p2 {
+    font-family: sans-serif;
+    font-size: 13px;
+    color: #666666 ;
+    font-weight:lighter;
+    margin-left: -192px;
+
+    }
+
+    .abj {
+        width: 90%;
+        user-select: none;
+    }
+
+
+    .boton { background: #00693c;
+   border: 1px solid #00693c;
+ box-sizing: border-box;
+        -webkit-tap-highlight-color: rgba(0,0,0,0);
+color: #fff;
+border-radius: 3px;
+cursor: pointer;
+width: 310px;
+height: 40px;
+       font-size: medium;
+      
+    }
+
+
+    .af {
+        color: #00693c;
+        font-family: sans-serif;
+    }
+
+
+    .ul {
+        font-family: sans-serif;
+        color: white;
+        width: 90%;
+    }
+
+
+    .log2 {
+        padding: 10px;
+width: 250px;  
+float: left;  }
+
+.ltr3
+{
+    font-family: sans-serif;
+    width: 80%;
+    font-size: small;
+}
+
+.caja {
+    width: 300px;
+    
+   }
+    .af2 {
+        font-family: sans-serif;
+        font-size: 16px;
+        color: rgb(94, 94, 94);;
+    
+         
+
+    }
